@@ -14,3 +14,7 @@ input
 {
 	margin: 10px;
 }
+
+body
+{ background-image: url('blabla.jpg'); 
+}
