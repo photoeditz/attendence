@@ -17,5 +17,6 @@ input
 
 body
 {
-background-image: url('blabla.jpg'); 
+background-image: url('blabla.jpg');
+background-size: cover
 }
